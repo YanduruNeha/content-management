@@ -1,1 +1,2 @@
-click here https://github.com/YanduruNeha/content-management/tree/931edb540865c5f68468d0322670106258d166de
+Content Management Tool :
+You can use the full stack development items and other drag-and-drop interfaces to create a web page that helps you add text, images, videos, and other elements required to create a blog.
